@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec707473-eaca-46b6-854e-c16d93a5399f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1l9bi5hDkT8nh9yUV5Sn74KFhal" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="D:\Curso\reactjs-notas\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build:css" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build:css" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.build:css" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec707473-eaca-46b6-854e-c16d93a5399f" name="Default Changelist" comment="" />
+      <created>1607012377502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607012377502</updated>
+      <workItem from="1607012379654" duration="2201000" />
+      <workItem from="1607270637678" duration="21000" />
+      <workItem from="1607270676400" duration="1020000" />
+      <workItem from="1607386828754" duration="163000" />
+      <workItem from="1607548955418" duration="74000" />
+      <workItem from="1612281784591" duration="921000" />
+      <workItem from="1612796674002" duration="4515000" />
+      <workItem from="1612837191757" duration="2656000" />
+      <workItem from="1613089963882" duration="21877000" />
+      <workItem from="1613140937491" duration="7234000" />
+      <workItem from="1613223714283" duration="19159000" />
+      <workItem from="1613393355594" duration="20828000" />
+      <workItem from="1613507864442" duration="6477000" />
+      <workItem from="1613523033071" duration="8024000" />
+      <workItem from="1613537129791" duration="509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="124" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613508447762">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="124" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1613508447762" />
+    <state x="79" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613444869174">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="79" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1613444869174" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1613141449338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613141449338" />
+    <state width="636" height="237" key="GridCell.Tab.0.bottom" timestamp="1613536925458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="636" height="237" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613536925458" />
+    <state width="636" height="237" key="GridCell.Tab.0.center" timestamp="1613536925458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="636" height="237" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1613536925458" />
+    <state width="636" height="237" key="GridCell.Tab.0.left" timestamp="1613536925458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="636" height="237" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1613536925458" />
+    <state width="636" height="237" key="GridCell.Tab.0.right" timestamp="1613536925458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="636" height="237" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613536925458" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1613429412476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1613429412476" />
+  </component>
+</project>

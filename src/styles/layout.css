@@ -1,0 +1,6 @@
+
+@media (max-width: 767px) {
+    .full-body {
+        min-height: calc(100vh - 85px);
+    }
+}

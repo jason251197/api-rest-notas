@@ -1,0 +1,59 @@
+{
+  "name": "tailwind-react-redux",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jspdf": "^2.1.1",
+    "jspdf-autotable": "^3.5.12",
+    "popper.js": "^1.16.1",
+    "react": "^16.13.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^3.10.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3",
+    "react-toastify": "^6.0.8",
+    "validator": "^13.1.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "@types/jest": "^24.9.1",
+    "@types/node": "^12.12.54",
+    "@types/react": "^16.9.46",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-helmet": "^6.1.0",
+    "@types/react-icons": "^3.0.0",
+    "@types/react-router-dom": "^5.1.5",
+    "@types/validator": "^13.1.0",
+    "autoprefixer": "^9.8.6",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.6.2",
+    "typescript": "^3.9.7"
+  },
+  "scripts": {
+    "start": "npm run build:css && react-scripts start",
+    "build": "npm run build:css && react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "build:css": "postcss src/styles/tailwind.css -o src/styles/main.css"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
